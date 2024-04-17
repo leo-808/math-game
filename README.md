@@ -1,3 +1,6 @@
+# Jogo de matemática
+## Trabalho de Raciocinio algotimico
+```
 import random
 import time
 
@@ -279,7 +282,7 @@ if(modoDeJogo == 1 or modoDeJogo == 2):
                 print('EMPATE')
                 print('FIM DE JOGO')
             else:
-                print('INVÁLIDO')
+                print('INVÁLIDO') '''
 
 
 
